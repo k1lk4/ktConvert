@@ -1,0 +1,2 @@
+Main-Class: ru.kilka.ktConvert.MainKt
+Class-Path: bin/
